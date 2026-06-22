@@ -1,0 +1,1 @@
+Le stagiaire doit construire une application web de carnet de contacts personnelle. Chaque utilisateur a son compte et gère sa propre liste de contacts. 

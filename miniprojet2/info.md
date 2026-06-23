@@ -1,0 +1,1 @@
+Le stagiaire doit construire une API REST complète de gestion de bibliothèque universitaire. Cette API sera testée uniquement avec Postman. C'est volontairement headless — l'objectif est de maîtriser le backend pro sans la distraction du frontend.
